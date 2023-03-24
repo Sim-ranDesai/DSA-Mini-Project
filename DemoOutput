@@ -1,0 +1,566 @@
+/*
+ * 	We present before you the data structures miniproject!!
+
+                                LOG IN FOR CALL CAFE                   
+                   Password : India@123
+----------------------------------------------------------------------------
+*************************WELCOME TO CALL CAFE*****************************
+----------------------------------------------------------------------------
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+
+YOUR MOBILE BOOK IS EMPTY :(
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:3
+
+You have selected >>>> ||SEARCH A PERSON||
+
+YOUR MOBILE BOOK IS EMPTY :(
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:4
+
+You have selected >>>> ||UPDATE CONTACT||
+
+MOBILE BOOK IS EMPTY :(
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:5
+
+You have selected >>>> ||DELETE CONTACT||
+
+YOUR MOBILE BOOK IS EMPTY :(
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:7
+
+You have selected >>>> ||DISPLAY HISTORY||
+
+*******HISTORY*******
+NO CALLS YET
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:1
+
+You have selected >>>> ||ADD DETAILS||
+
+Enter contact name : Simran Desai
+Enter contact number : 5645657898
+
+Do you wish to add more details?If YES press (1),if NO press (0).1
+
+Enter contact name : Gargee Dorle
+Enter contact number : 6576545657
+
+Do you wish to add more details?If YES press (1),if NO press (0).1
+
+Enter contact name : Mayuri
+Enter contact number : 5676545434
+
+Do you wish to add more details?If YES press (1),if NO press (0).1
+
+Enter contact name : Sanika
+Enter contact number : 9098783748
+
+Do you wish to add more details?If YES press (1),if NO press (0).1
+
+Enter contact name : Riya
+Enter contact number : 2347654657
+
+Do you wish to add more details?If YES press (1),if NO press (0).0
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+*Contact Name*	 *Contact Number*
+Gargee Dorle		6576545657
+Mayuri		5676545434
+Riya		2347654657
+Sanika		9098783748
+Simran Desai		5645657898
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:3
+
+You have selected >>>> ||SEARCH A PERSON||
+Enter name for which you want search number
+mayuri
+Contact found : 
+CONTACT NAME		 CONTACT NUMBER
+Mayuri			5676545434
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:3
+
+You have selected >>>> ||SEARCH A PERSON||
+Enter name for which you want search number
+joy
+NUMBER NOT FOUND!!!
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:4
+
+You have selected >>>> ||UPDATE CONTACT||
+Enter name
+riYa
+0. Exit 
+1.Update name : 
+2.Update number : 
+Enter the your choice : 
+1
+Contact found : 
+CONTACT NAME		 CONTACT NUMBER
+Riya			2347654657
+Enter the updated name : 
+Riya P
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+*Contact Name*	 *Contact Number*
+Gargee Dorle		6576545657
+Mayuri		5676545434
+Riya P		2347654657
+Sanika		9098783748
+Simran Desai		5645657898
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:4
+
+You have selected >>>> ||UPDATE CONTACT||
+Enter name
+gargee dorle
+0. Exit 
+1.Update name : 
+2.Update number : 
+Enter the your choice : 
+2
+Contact found : 
+CONTACT NAME		 CONTACT NUMBER
+Gargee Dorle			6576545657Enter the updated number : 
+6765454567
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+*Contact Name*	 *Contact Number*
+Gargee Dorle		6765454567
+Mayuri		5676545434
+Riya P		2347654657
+Sanika		9098783748
+Simran Desai		5645657898
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:5
+
+You have selected >>>> ||DELETE CONTACT||
+Enter name to be deleted:
+simran desai
+Contact found : 
+CONTACT NAME		 CONTACT NUMBER
+Simran Desai			5645657898
+CONTACT DELETED SUCCESSFULLY :)
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+*Contact Name*	 *Contact Number*
+Gargee Dorle		6765454567
+Mayuri		5676545434
+Riya P		2347654657
+Sanika		9098783748
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:5
+
+You have selected >>>> ||DELETE CONTACT||
+Enter name to be deleted:
+riya p
+Contact found : 
+CONTACT NAME		 CONTACT NUMBER
+Riya P			2347654657
+CONTACT DELETED SUCCESSFULLY :)
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+*Contact Name*	 *Contact Number*
+Gargee Dorle		6765454567
+Mayuri		5676545434
+Sanika		9098783748
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:5
+
+You have selected >>>> ||DELETE CONTACT||
+Enter name to be deleted:
+gargee dorle
+Contact found : 
+CONTACT NAME		 CONTACT NUMBER
+Gargee Dorle			6765454567
+CONTACT DELETED SUCCESSFULLY :)
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+*Contact Name*	 *Contact Number*
+Mayuri		5676545434
+Sanika		9098783748
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+6
+Are you sure you want to logout :  YES(0)  NO(1)
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:6
+
+You have selected >>>> ||CALL A CONTACT||
+Enter the name you wish to call
+sanika
+Contact found : 
+CONTACT NAME		 CONTACT NUMBER
+Sanika			9098783748
+*********ON CALL***********
+sanika
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:6
+
+You have selected >>>> ||CALL A CONTACT||
+Enter the name you wish to call
+mia
+NUMBER NOT FOUND!!!
+CONTACT NOT FOUND :(
+Enter number:
+6576565456
+
+*********ON CALL***********
+6576565456
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:7
+
+You have selected >>>> ||DISPLAY HISTORY||
+
+*******HISTORY*******
+6576565456 
+sanika 
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+1
+___________________________________________________________________________
+
+~~~~~~~~MeNu~~~~~~~~
+0)||EXIT||				 
+1)||ADD DETAILS||              
+2)||DISPLAY DETAILS||              
+3)||SEARCH A PERSON||              
+4)||UPDATE DETAILS||              
+5)||DELETE CONTACT||              
+6)||CALL A CONTACT||              
+7)||DISPLAY HISTORY||
+
+Please enter your choice:2
+
+You have selected >>>> ||DISPLAY DETAILS||
+*Contact Name*	 *Contact Number*
+Mayuri		5676545434
+Sanika		9098783748
+
+If you want to continue,press '1' or else press '0' for exiting the app.
+0
+Are you sure you want to logout :  YES(0)  NO(1)
+0
+Thank you for operating with us!!
+
+ */
